@@ -1,0 +1,10 @@
+Testsuite: miloja.RestauranteTests
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0,297 sec
+------------- Standard Output ---------------
+--Output from testDeberiaGuardarUnRestaurante--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testDeberiaGuardarUnRestaurante--
+------------- ---------------- ---------------
+
+Testcase: testDeberiaGuardarUnRestaurante took 0,294 sec

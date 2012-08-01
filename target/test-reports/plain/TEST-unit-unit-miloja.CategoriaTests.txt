@@ -1,0 +1,10 @@
+Testsuite: miloja.CategoriaTests
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 1,102 sec
+------------- Standard Output ---------------
+--Output from testDeberiaGuardarUnaCategoria--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testDeberiaGuardarUnaCategoria--
+------------- ---------------- ---------------
+
+Testcase: testDeberiaGuardarUnaCategoria took 0,949 sec

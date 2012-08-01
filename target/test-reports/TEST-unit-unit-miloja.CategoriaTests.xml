@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Mac-mini-de-Migcenel.local" name="miloja.CategoriaTests" tests="1" time="1.102" timestamp="2012-07-27T00:59:57">
+  <properties />
+  <testcase classname="miloja.CategoriaTests" name="testDeberiaGuardarUnaCategoria" time="0.949" />
+  <system-out><![CDATA[--Output from testDeberiaGuardarUnaCategoria--
+]]></system-out>
+  <system-err><![CDATA[--Output from testDeberiaGuardarUnaCategoria--
+]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Mac-mini-de-Migcenel.local" name="miloja.RestauranteTests" tests="1" time="0.297" timestamp="2012-07-27T00:59:59">
+  <properties />
+  <testcase classname="miloja.RestauranteTests" name="testDeberiaGuardarUnRestaurante" time="0.294" />
+  <system-out><![CDATA[--Output from testDeberiaGuardarUnRestaurante--
+]]></system-out>
+  <system-err><![CDATA[--Output from testDeberiaGuardarUnRestaurante--
+]]></system-err>
+</testsuite>
